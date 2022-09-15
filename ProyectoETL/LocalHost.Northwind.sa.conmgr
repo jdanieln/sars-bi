@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.Northwind.sa"
+  DTS:DTSID="{3AC25883-DAFD-4DAF-B701-1CE032A67814}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;User ID=sa;Initial Catalog=Northwind;Persist Security Info=True;Application Name=SSIS-ProyectoETL-{3AC25883-DAFD-4DAF-B701-1CE032A67814}LocalHost.Northwind.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZdQyOgbU/0aXX2g5Kx07IgAAAAACAAAAAAAQZgAAAAEAACAAAACml0ZjH3j5doSfsyoftrO/8jlcSDQ1hS7VUfYVYnnQmwAAAAAOgAAAAAIAACAAAADCHC+Wmq4vgFmwkUn+QU9qwLksadxlWRzX0CKg2iho9oAAAACcwHbogHrOzIXoBdgnKAh+/yYbazQN7/5B+dn5qhVo9Z93dokbslFzwoqqcJC8wL5RfPtxO5X2Sf464+PpIUNW6VAfWPecEJQRZr9SCYDIKjHxUBeIoLsBmXjCHQGar0s/LFLUa4oNc2WQB2ITEfauS4rw4TNVqBD4bUqD3KxcO0AAAAD9H+m+Q/ZPcViwpJucqwmdkFmEoB34V2yMh7zQc5xzCjN3vPcYL1VA3lUpg8In7qZ7voFxf3oVKdZocbMSozEf</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

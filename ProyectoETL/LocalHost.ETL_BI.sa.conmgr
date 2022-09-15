@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.ETL_BI.sa"
+  DTS:DTSID="{F384079A-D027-4358-91DE-C130448C1B81}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;User ID=sa;Initial Catalog=ETL_BI;Persist Security Info=True;Application Name=SSIS-ProyectoETL-{F384079A-D027-4358-91DE-C130448C1B81}LocalHost.ETL_BI.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZdQyOgbU/0aXX2g5Kx07IgAAAAACAAAAAAAQZgAAAAEAACAAAACaDTOnOLrCPKSyVo/BEku49n6JH82dDiPpAtG+bHddowAAAAAOgAAAAAIAACAAAABQhdOBOsxPWb2ssaUP9UkJIosqKYcZt4RXOrHcNXwCDYAAAADTvqCCD8gqJ9OnYhjtg6XCcAr2nQYTeMpta6Xw4U2G2NHFwC883U1fz/YHHBgiNV/u3CHnQyPaa4JQ4KrGEK/vq+ie7RynWpm0p+v7FhEMdHMuOTZtxOzYmi0oOD0zQz0VUPLfMoTCE0YtiLSSnnA4EDuZBbClVPKWp0ZeV4AsnUAAAACyHlVpRnA+H01vt1vSY8/srmDsk9g40SAzQrKefjM03whXj6BEzdx+/vbcHQkBVLDeE7KzG/W7oxaJXl6emXQL</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
